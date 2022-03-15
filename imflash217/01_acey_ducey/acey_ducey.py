@@ -72,4 +72,4 @@ def play_game() -> None:
             else:
                 print("SORRY!! You loose!!")
 
-    print("Sorry, friend! You blew your purse!!")
+    print("Sorry, bro! You blew your purse!")
